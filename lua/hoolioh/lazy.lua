@@ -39,4 +39,5 @@ require("lazy").setup({
             {'rafamadriz/friendly-snippets'},
         }
     },
+    { 'puremourning/vimspector' }
 })
