@@ -1,5 +1,5 @@
 require("hoolioh.remap")
-require("hoolioh.packer")
+require("hoolioh.lazy")
 
 vim.opt.nu = true
 vim.opt.relativenumber = true
