@@ -39,5 +39,6 @@ require("lazy").setup({
             {'rafamadriz/friendly-snippets'},
         }
     },
-    { 'puremourning/vimspector' }
+    { 'puremourning/vimspector' },
+    { 'cpea2506/relative-toggle.nvim' }
 })
