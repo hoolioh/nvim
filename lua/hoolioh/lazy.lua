@@ -15,6 +15,7 @@ require("lazy").setup({
     { 'navarasu/onedark.nvim' },
     { 'mbbill/undotree' },
     { 'tpope/vim-fugitive' },
+    { 'alexghergh/nvim-tmux-navigation' },
     { 'nvim-treesitter/nvim-treesitter', build = ':TSUpdate' },
     {
         'nvim-telescope/telescope.nvim',
