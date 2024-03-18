@@ -17,6 +17,7 @@
   "relative-toggle.nvim": { "branch": "main", "commit": "fabe2f60f5f148f2bf1fb76e8a542f5adf8d996a" },
   "telescope.nvim": { "branch": "master", "commit": "d90956833d7c27e73c621a61f20b29fdb7122709" },
   "undotree": { "branch": "master", "commit": "a1758ba9990b7189f601a3a5acdfc8ca3907a700" },
+  "vim-commentary": { "branch": "master", "commit": "f67e3e67ea516755005e6cccb178bc8439c6d402" },
   "vim-fugitive": { "branch": "master", "commit": "f116dcc8e21021e6fbfb6b0a9f8f7b9566d933f4" },
   "vimspector": { "branch": "master", "commit": "7c0a89d9a91b7b3ece1db15661d85f372bbc9add" }
 }

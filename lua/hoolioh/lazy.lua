@@ -41,5 +41,6 @@ require("lazy").setup({
         }
     },
     { 'puremourning/vimspector' },
-    { 'cpea2506/relative-toggle.nvim' }
+    { 'cpea2506/relative-toggle.nvim' },
+    { 'tpope/vim-commentary' },
 })
