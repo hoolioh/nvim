@@ -31,13 +31,19 @@ require("lazy").setup({
             {'williamboman/mason-lspconfig.nvim'},
             -- LSP Support
             {'neovim/nvim-lspconfig'},
-            -- Autocompletion
+            -- Autocompletion framework
             {'hrsh7th/nvim-cmp'},
+            -- Completion source
             {'hrsh7th/cmp-nvim-lsp'},
+            -- Sources
             {'hrsh7th/cmp-buffer'},
             {'hrsh7th/cmp-path'},
-            {'L3MON4D3/LuaSnip'},
+            {'hrsh7th/cmp-buffer'},
+            {'hrsh7th/vim-vsnip'},
+            {'L3MON4D3/LuaSnip',},
+            {'saadparwaiz1/cmp_luasnip'},
             {'rafamadriz/friendly-snippets'},
+            {'honza/vim-snippets'},
         }
     },
     { 'puremourning/vimspector' },
