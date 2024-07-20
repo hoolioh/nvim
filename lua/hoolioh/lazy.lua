@@ -49,4 +49,10 @@ require("lazy").setup({
     { 'puremourning/vimspector' },
     { 'cpea2506/relative-toggle.nvim' },
     { 'tpope/vim-commentary' },
+    {
+        'nvim-tree/nvim-tree.lua',
+        version = '*',
+        lazy = false,
+        dependencies = { 'nvim-tree/nvim-web-devicons'},
+    },
 })
